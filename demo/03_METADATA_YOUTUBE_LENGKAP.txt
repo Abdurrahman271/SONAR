@@ -1,0 +1,82 @@
+================================================================================
+METADATA UNGGAH YOUTUBE LENGKAP (TINGGAL SALIN & TEMPEL)
+KARYA: SONAR v2.5 AI — KARTIKA CYBER HACTOWN 2026
+================================================================================
+
+[1] PILIHAN JUDUL VIDEO (PILIH SALAH SATU):
+--------------------------------------------------------------------------------
+Pilihan Utama (Paling Direkomendasikan):
+SONAR v2.5 AI: Sistem Observasi Narasi & Analisis Reaksi Kognitif | Demo Karya Kartika Cyber Hactown 2026
+
+Pilihan Alternatif 1:
+Demo Karya SONAR v2.5 AI — Platform Deteksi Dini Disinformasi & Radar Botnet | Kartika Cyber Hactown 2026
+
+Pilihan Alternatif 2:
+SONAR v2.5 AI — Cognitive Warfare Defense & Social Cyber Intelligence System | Kartika Cyber Hactown 2026
+
+
+[2] DESKRIPSI VIDEO LENGKAP (SALIN SELURUH TEKS DI BAWAH):
+--------------------------------------------------------------------------------
+Demonstrasi Resmi Karya untuk Kompetisi Kartika Cyber Hactown 2026
+
+Karya: SONAR (Sistem Observasi Narasi & Analisis Reaksi Kognitif) v2.5 AI
+Kategori: AI for Cyber Defense, Social Intelligence, & Early Warning System (EWS)
+Afiliasi: Tim Pengembang Kartika Cyber Hactown 2026
+Durasi Maksimal: 10 Menit
+
+--------------------------------------------------------------------------------
+RINGKASAN EKSEKUTIF KARYA:
+--------------------------------------------------------------------------------
+Di era perang modern hibrida, domain kognitif telah menjadi medan pertempuran strategis baru. Operasi disinformasi terkoordinasi, amplifikasi botnet, dan manipulasi opini publik dapat merekayasa krisis ekonomi, kepanikan massal, serta instabilitas nasional hanya dalam hitungan menit.
+
+SONAR v2.5 AI hadir sebagai platform intelijen sosial dan Early Warning System (EWS) kognitif generasi baru yang dirancang khusus untuk memindai ruang siber publik, mendeteksi amplifikasi inotentik, memetakan topologi aktor intelektual botnet, dan merumuskan kontra-narasi presisi secara instan.
+
+--------------------------------------------------------------------------------
+TIMESTAMPS / DAFTAR ISI VIDEO (CHAPTERS YOUTUBE):
+--------------------------------------------------------------------------------
+00:00 - Babak 1: Pembukaan & Urgensi Perang Kognitif Modern
+01:15 - Babak 2: Pengenalan SONAR v2.5 AI & Nilai Manfaat Strategis
+02:45 - Babak 3: Arsitektur Sistem, Multi-Source Ingestion & Pipeline AI IndoBERT
+04:15 - Babak 4A: Live Demo Dasbor Utama & Early Warning System (EWS)
+05:15 - Babak 4B: Live Demo Pemantauan Narasi & Filter Ingestion Multi-Platform
+06:00 - Babak 4C: Live Demo Inspektor Deep NLP & Analisis Manipulasi Teks
+07:00 - Babak 4D: Live Demo Radar Topologi Jaringan Botnet (Graph Forensics)
+07:45 - Babak 4E: Live Demo Peta Geospasial 38 Provinsi Nusantara & Flash Warning
+08:30 - Babak 5: Simulasi 14 Skenario Multisektoral & Ekspor Laporan SitRep
+09:15 - Babak 6: Kesimpulan, Kedaulatan Kognitif Nasional & Penutup
+
+--------------------------------------------------------------------------------
+FITUR UNGGULAN & SPESIFIKASI TEKNIS:
+--------------------------------------------------------------------------------
+1. Omnichannel Ingestion: Pemindaian multi-platform (X, TikTok, Telegram, Facebook, Portal Berita).
+2. Deep NLP IndoBERT: Analisis polaritas sentimen leksikal dan spektrum 4 emosi (Kemarahan, Ketakutan, Harapan, Kejutan).
+3. Radar Cognitive Scope 360: Pemetaan graf topologi jaringan botnet tanpa getaran (zero jitter) dengan koordinat kompas 8 penjuru.
+4. Peta Geospasial 38 Provinsi RI: Batas otentik WGS84 EPSG:4326 dengan 10 titik hub terkalibrasi dan penerbitan Flash Warning kedaerahan.
+5. AI Counter-Narrative Generator: Formulasi otomatis draf kontra-narasi berbasis etika dan fakta dalam hitungan detik.
+6. Dokumen Intelijen SitRep: Ekspor Laporan Situasi Resmi berstandar komando militer/BSSN sekali klik.
+7. Validasi 14 Skenario Multisektoral: Simulasi krisis finansial, kesehatan, AI deepfake, pangan, hingga geopolitik.
+
+--------------------------------------------------------------------------------
+INFORMASI PENGEMBANG & TAUTAN:
+--------------------------------------------------------------------------------
+Kompetisi: Kartika Cyber Hactown 2026
+Tahun Pembuatan: 2026
+Teknologi: React 19, TypeScript, Tailwind CSS, Lucide Icons, Vite, Playwright, Python
+Thumbnail Resmi: Thumbnail.PNG (1200x630 px)
+
+#KartikaCyberHactown2026 #CyberDefense #SocialCyberIntelligence #AIforDefense #EarlyWarningSystem #BSSN #TNI #KedaulatanSiber #PertahananKognitif #NLP #BotnetDetection
+
+
+[3] TAGS VIDEO (SALIN & TEMPEL KE KOLOM TAGS YOUTUBE):
+--------------------------------------------------------------------------------
+Kartika Cyber Hactown 2026, SONAR v2.5, cyber intelligence, early warning system, cognitive warfare, botnet detection, IndoBERT, NLP Bahasa Indonesia, counter narrative generator, social listening, EWS kognitif, pertahanan siber, BSSN, TNI AD, intelijen siber, disinformasi, analisis sentimen, graph topology, demo karya, demo aplikasi, keamanan siber nasional, hackathon 2026, visualisasi data pertahanan, sitrep generator
+
+
+[4] PENGATURAN TAMBAHAN YOUTUBE:
+--------------------------------------------------------------------------------
+* Kategori Video: Science & Technology (Sains & Teknologi)
+* Bahasa Video: Bahasa Indonesia
+* Visibilitas: Publik (atau Unlisted jika diminta khusus oleh panitia)
+* Gambar Thumbnail: Gunakan file "Thumbnail.PNG" yang berada di folder root proyek (ukuran 1200x630 px, sudah memenuhi standar maksimal 500 KB).
+================================================================================
+
