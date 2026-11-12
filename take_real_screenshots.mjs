@@ -3,7 +3,7 @@ import fs from 'fs';
 import path from 'path';
 
 const OUT_DIR = 'd:/SONAR/Kartika Cyber Hactown 2026';
-const BASE_URL = 'http://localhost:5173/';
+const BASE_URL = 'http://localhost:5173/SONAR/';
 const VIEWPORT = { width: 1536, height: 864 };
 
 if (!fs.existsSync(OUT_DIR)) {

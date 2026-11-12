@@ -76,7 +76,7 @@
     margin: 10mm 12mm 12mm 12mm;
   }
 
-  html, body {
+  html, body, #root {
     background: #ffffff !important;
     color: #0f172a !important;
     width: 100% !important;
@@ -90,27 +90,7 @@
     overflow: visible !important;
   }
 
-  /* ── Hide EVERYTHING in the page except our modal backdrop ── */
-  body > * {
-    display: none !important;
-  }
-  body > #root {
-    display: block !important;
-  }
-  #root > * {
-    display: none !important;
-  }
-  #root > .sitrep-root-portal,
-  .sitrep-modal-backdrop {
-    display: block !important;
-  }
-
-  /* For framer-motion portal / body-appended modals */
-  body > .sitrep-modal-backdrop {
-    display: block !important;
-  }
-
-  /* Reset all modal containers to top-aligned block layout */
+  /* Reset all modal containers to standard top-aligned block layout */
   .sitrep-modal-backdrop {
     position: static !important;
     display: block !important;
@@ -140,6 +120,7 @@
     border-radius: 0 !important;
     overflow: visible !important;
     transform: none !important;
+    opacity: 1 !important;
   }
 
   /* The printable document preview container wrapper */
@@ -159,7 +140,7 @@
     width: 100% !important;
     max-width: 100% !important;
     margin: 0 !important;
-    padding: 8mm 0 0 0 !important;
+    padding: 0 !important;
     background: #ffffff !important;
     border: none !important;
     box-shadow: none !important;

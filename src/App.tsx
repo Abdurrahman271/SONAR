@@ -44,22 +44,24 @@ export function App() {
   };
 
   return (
-    <div className="min-h-screen bg-[#f8fafc] text-slate-900 flex flex-col font-sans selection:bg-blue-600 selection:text-white">
+    <div className="min-h-screen bg-[#f8fafc] text-slate-900 flex flex-col font-sans selection:bg-blue-600 selection:text-white print:bg-white print:min-h-0 print:p-0 print:m-0 print:block">
       {/* Top Header Navbar (Royal Blue) */}
-      <Header
-        currentScenario={currentScenario}
-        scenarios={SCENARIOS}
-        onSelectScenario={handleScenarioChange}
-        onOpenExportModal={() => setExportModalOpen(true)}
-        mobileMenuOpen={mobileMenuOpen}
-        onToggleMobileMenu={() => setMobileMenuOpen(!mobileMenuOpen)}
-        sidebarCollapsed={sidebarCollapsed}
-        onToggleSidebar={() => setSidebarCollapsed(!sidebarCollapsed)}
-        onNavigateTab={(tab) => setActiveTab(tab as TabType)}
-      />
+      <div className="print:hidden">
+        <Header
+          currentScenario={currentScenario}
+          scenarios={SCENARIOS}
+          onSelectScenario={handleScenarioChange}
+          onOpenExportModal={() => setExportModalOpen(true)}
+          mobileMenuOpen={mobileMenuOpen}
+          onToggleMobileMenu={() => setMobileMenuOpen(!mobileMenuOpen)}
+          sidebarCollapsed={sidebarCollapsed}
+          onToggleSidebar={() => setSidebarCollapsed(!sidebarCollapsed)}
+          onNavigateTab={(tab) => setActiveTab(tab as TabType)}
+        />
+      </div>
 
       {/* Main Container with Sidebar + Main Canvas */}
-      <div className="flex-1 flex w-full">
+      <div className="flex-1 flex w-full print:hidden">
         {/* Left Sidebar Navigation */}
         <Navigation
           activeTab={activeTab}
@@ -254,10 +256,12 @@ export function App() {
       </div>
 
       {/* Narrative Detail Modal */}
-      <NarrativeDetailModal
-        post={selectedNarrative}
-        onClose={() => setSelectedNarrative(null)}
-      />
+      <div className="print:hidden">
+        <NarrativeDetailModal
+          post={selectedNarrative}
+          onClose={() => setSelectedNarrative(null)}
+        />
+      </div>
 
       {/* Executive SitRep Briefing Export Modal */}
       <BriefingExportModal
