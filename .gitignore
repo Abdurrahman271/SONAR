@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Temporary demo build intermediate files
+demo_build/
+/demo.mp4
