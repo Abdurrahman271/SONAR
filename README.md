@@ -1,6 +1,9 @@
 # SONAR (Sistem Observasi Narasi & Analisis Reaksi) v2.5 AI
 ### *Purwarupa Dasbor Intelijen Ruang Siber Sosial (Cognitive Domain) Bertenaga AI Agent*
 
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-GITHUB_PAGES-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://abdurrahman271.github.io/SONAR/)
+[![Repository](https://img.shields.io/badge/GITHUB-SONAR_REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdurrahman271/SONAR)
+
 [![Vite](https://img.shields.io/badge/Vite-8.x-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-19.x-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
