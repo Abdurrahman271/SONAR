@@ -9,12 +9,14 @@ Selamat datang di folder **`demo`**. Folder ini berisi seluruh bahan yang Anda b
 
 | No | Nama Berkas | Format | Deskripsi & Kegunaan |
 |---|---|---|---|
+| 0 | **[demo.mp4](file:///d:/SONAR/demo/demo.mp4)** | Video MP4 (1080p) | **Video Demonstrasi Final Siap Unggah YouTube (Durasi 5 Menit 3 Detik / 18.4 MB)**. Menjelaskan karya secara utuh: Latar belakang perang kognitif, apa itu SONAR, 4 manfaat strategis, cara kerja AI 3 lapis, live walkthrough 7 modul, simulasi 14 skenario, dan ekspor SitRep dinas militer A4. Dilengkapi suara narator AI Bahasa Indonesia berwibawa dan tactical lower-third. |
 | 1 | **[01_NASKAH_DAN_RUNDOWN_VIDEO_DEMO_10_MENIT.md](file:///d:/SONAR/demo/01_NASKAH_DAN_RUNDOWN_VIDEO_DEMO_10_MENIT.md)** | Markdown | **Naskah Lengkap Verbatim (Kata demi Kata)** terkalibrasi durasi 10 menit (00:00 – 10:00). Berisi instruksi visual, narasi suara, dan aksi klik kursor untuk 6 babak presentasi. |
 | 2 | **[02_PANDUAN_PRODUKSI_DAN_REKAMAN_OBS.md](file:///d:/SONAR/demo/02_PANDUAN_PRODUKSI_DAN_REKAMAN_OBS.md)** | Markdown | **Panduan Teknis Perekaman Layar** menggunakan OBS Studio atau Windows Game Bar (`Win + Alt + R`), pengaturan resolusi 1080p 60fps, filter noise mikrofon, dan checklist pra-rekaman. |
-| 3 | **[03_METADATA_YOUTUBE_LENGKAP.txt](file:///d:/SONAR/demo/03_METADATA_YOUTUBE_LENGKAP.txt)** | Text | **Teks Siap Salin-Tempel (Copy-Paste)** untuk Judul Video, Deskripsi Lengkap dengan Timestamp Chapters (00:00 – 10:00), Hashtag resmi, dan 30+ Tags YouTube. |
+| 3 | **[03_METADATA_YOUTUBE_LENGKAP.txt](file:///d:/SONAR/demo/03_METADATA_YOUTUBE_LENGKAP.txt)** | Text | **Teks Siap Salin-Tempel (Copy-Paste)** untuk Judul Video, Deskripsi Lengkap dengan Timestamp Chapters, Hashtag resmi, dan 30+ Tags YouTube. |
 | 4 | **[04_LEMBAR_RINGKASAN_DEWAN_JURI.md](file:///d:/SONAR/demo/04_LEMBAR_RINGKASAN_DEWAN_JURI.md)** | Markdown | **Ringkasan Eksekutif 1 Halaman** untuk Dewan Juri mengenai latar belakang, arsitektur 3 lapis, rumus kalkulasi EWS, dan matriks 14 skenario multisektoral. |
 | 5 | **[05_SLIDE_PRESENTASI_VIDEO_DEMO.pptx](file:///d:/SONAR/demo/05_SLIDE_PRESENTASI_VIDEO_DEMO.pptx)** | PowerPoint (16:9) | **Slide Presentasi Pendukung** yang dapat ditampilkan di awal/akhir video atau sebagai insert visual (Title Card, Latar Belakang Masalah, Arsitektur, Tabel Manfaat, Outro). |
-| 6 | **[visual_assets/](file:///d:/SONAR/demo/visual_assets)** | Folder Gambar PNG | **5 Kartu Grafis Full HD (1920x1080)** siap pakai untuk transisi editing video: Title Card, Problem Card, Architecture Card, Benefits Card, dan Outro Card. |
+| 6 | **[SONAR_Executive_SitRep_A4_Contoh.pdf](file:///d:/SONAR/demo/SONAR_Executive_SitRep_A4_Contoh.pdf)** | PDF A4 Resmi | **Contoh Dokumen Intelijen SitRep Eksekutif A4 Resmi** dengan Kop Surat Mabes TNI, klasifikasi RAHASIA/STRATEGIS, 4 KPI, dan blok tanda tangan digital. |
+| 7 | **[visual_assets/](file:///d:/SONAR/demo/visual_assets)** | Folder Gambar PNG | **5 Kartu Grafis Full HD (1920x1080)** siap pakai untuk transisi editing video: Title Card, Problem Card, Architecture Card, Benefits Card, dan Outro Card. |
 
 ---
 
