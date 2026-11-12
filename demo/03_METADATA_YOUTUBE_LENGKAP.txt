@@ -35,15 +35,13 @@ SONAR v2.5 AI hadir sebagai platform intelijen sosial dan Early Warning System (
 TIMESTAMPS / DAFTAR ISI VIDEO (CHAPTERS YOUTUBE):
 --------------------------------------------------------------------------------
 00:00 - Babak 1: Pembukaan & Urgensi Perang Kognitif Modern
-01:15 - Babak 2: Pengenalan SONAR v2.5 AI & Nilai Manfaat Strategis
-02:45 - Babak 3: Arsitektur Sistem, Multi-Source Ingestion & Pipeline AI IndoBERT
-04:15 - Babak 4A: Live Demo Dasbor Utama & Early Warning System (EWS)
-05:15 - Babak 4B: Live Demo Pemantauan Narasi & Filter Ingestion Multi-Platform
-06:00 - Babak 4C: Live Demo Inspektor Deep NLP & Analisis Manipulasi Teks
-07:00 - Babak 4D: Live Demo Radar Topologi Jaringan Botnet (Graph Forensics)
-07:45 - Babak 4E: Live Demo Peta Geospasial 38 Provinsi Nusantara & Flash Warning
-08:30 - Babak 5: Simulasi 14 Skenario Multisektoral & Ekspor Laporan SitRep
-09:15 - Babak 6: Kesimpulan, Kedaulatan Kognitif Nasional & Penutup
+00:45 - Babak 2: Pengenalan SONAR v2.5 AI & 4 Manfaat Utama
+01:25 - Babak 3: Arsitektur Sistem 3 Lapis & Pipeline AI IndoBERT
+02:02 - Babak 4A: Live Demo Dasbor Utama (EWS) & Pemantauan Narasi Multikanal
+02:41 - Babak 4B: Live Demo Inspektor Deep NLP IndoBERT & Radar Botnet 360°
+03:20 - Babak 4C: Live Demo Peta Nusantara 38 Provinsi & Geointelijen WGS84
+03:51 - Babak 5: Live Demo Simulasi 14 Skenario & Ekspor Dokumen SitRep A4 Mabes TNI
+04:31 - Babak 6: Kesimpulan, Kedaulatan Kognitif Nasional & Penutup
 
 --------------------------------------------------------------------------------
 FITUR UNGGULAN & SPESIFIKASI TEKNIS:
