@@ -9,7 +9,6 @@ Selamat datang di folder **`demo`**. Folder ini berisi seluruh bahan yang Anda b
 
 | No | Nama Berkas | Format | Deskripsi & Kegunaan |
 |---|---|---|---|
-| 0 | **[demo.mp4](file:///d:/SONAR/demo/demo.mp4)** | Video MP4 (1080p) | **Video Demonstrasi Final Siap Unggah YouTube (Durasi 5 Menit 3 Detik / 18.4 MB)**. Menjelaskan karya secara utuh: Latar belakang perang kognitif, apa itu SONAR, 4 manfaat strategis, cara kerja AI 3 lapis, live walkthrough 7 modul, simulasi 14 skenario, dan ekspor SitRep dinas militer A4. Dilengkapi suara narator AI Bahasa Indonesia berwibawa dan tactical lower-third. |
 | 1 | **[01_NASKAH_DAN_RUNDOWN_VIDEO_DEMO_10_MENIT.md](file:///d:/SONAR/demo/01_NASKAH_DAN_RUNDOWN_VIDEO_DEMO_10_MENIT.md)** | Markdown | **Naskah Lengkap Verbatim (Kata demi Kata)** terkalibrasi durasi 10 menit (00:00 – 10:00). Berisi instruksi visual, narasi suara, dan aksi klik kursor untuk 6 babak presentasi. |
 | 2 | **[02_PANDUAN_PRODUKSI_DAN_REKAMAN_OBS.md](file:///d:/SONAR/demo/02_PANDUAN_PRODUKSI_DAN_REKAMAN_OBS.md)** | Markdown | **Panduan Teknis Perekaman Layar** menggunakan OBS Studio atau Windows Game Bar (`Win + Alt + R`), pengaturan resolusi 1080p 60fps, filter noise mikrofon, dan checklist pra-rekaman. |
 | 3 | **[03_METADATA_YOUTUBE_LENGKAP.txt](file:///d:/SONAR/demo/03_METADATA_YOUTUBE_LENGKAP.txt)** | Text | **Teks Siap Salin-Tempel (Copy-Paste)** untuk Judul Video, Deskripsi Lengkap dengan Timestamp Chapters, Hashtag resmi, dan 30+ Tags YouTube. |
