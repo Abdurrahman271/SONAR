@@ -64,3 +64,119 @@
 .animate-radar-sweep {
   animation: radar-sweep 4.5s linear infinite;
 }
+
+/* ============================================================
+   SITREP EXECUTIVE PRINT & PDF STYLES (A4 PORTRAIT)
+   Ensures 100% page width, authentic military Kop Surat,
+   large legible typography, and isolates the printable sheet.
+   ============================================================ */
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 10mm 12mm 12mm 12mm;
+  }
+
+  html, body {
+    background: #ffffff !important;
+    color: #0f172a !important;
+    width: 100% !important;
+    height: auto !important;
+    min-height: auto !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    font-size: 10.5pt !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+    overflow: visible !important;
+  }
+
+  /* ── Hide EVERYTHING in the page except our modal backdrop ── */
+  body > * {
+    display: none !important;
+  }
+  body > #root {
+    display: block !important;
+  }
+  #root > * {
+    display: none !important;
+  }
+  #root > .sitrep-root-portal,
+  .sitrep-modal-backdrop {
+    display: block !important;
+  }
+
+  /* For framer-motion portal / body-appended modals */
+  body > .sitrep-modal-backdrop {
+    display: block !important;
+  }
+
+  /* Reset all modal containers to top-aligned block layout */
+  .sitrep-modal-backdrop {
+    position: static !important;
+    display: block !important;
+    width: 100% !important;
+    height: auto !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: transparent !important;
+    overflow: visible !important;
+    inset: auto !important;
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+    z-index: auto !important;
+  }
+
+  .sitrep-modal-content {
+    position: static !important;
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    max-height: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    overflow: visible !important;
+    transform: none !important;
+  }
+
+  /* The printable document preview container wrapper */
+  .sitrep-scroll-wrapper {
+    overflow: visible !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    background: transparent !important;
+    max-height: none !important;
+    height: auto !important;
+  }
+
+  /* The printable sheet itself */
+  #sitrep-printable-document {
+    position: static !important;
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 8mm 0 0 0 !important;
+    background: #ffffff !important;
+    border: none !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    overflow: visible !important;
+    transform: none !important;
+  }
+
+  .print-avoid-break {
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
+  }
+
+  /* Ensure grids render correctly in print */
+  .print-grid-4 {
+    display: grid !important;
+    grid-template-columns: repeat(4, 1fr) !important;
+    gap: 8px !important;
+  }
+}
